@@ -1,2 +1,2 @@
-# Zoom
+# Zync
 A full stack video conferencing web application.
